@@ -294,7 +294,7 @@ export default class Experience extends Component {
                         <h2>
                           IT Consultant at{" "}
                           <a
-                            href="https://www.adneom.com/"
+                            href="https://positivethinking.tech/"
                             style={{ color: "#2c98f0" }}
                           >
                             ADNEOM
@@ -304,14 +304,14 @@ export default class Experience extends Component {
                         <p>
                           Working in Luxembourg was a shy first step in terms of
                           an international career for a Belgian but thanks to
-                          ADNEOM, a consulting company now rebranded The
+                          ADNEOM, a consulting company now rebranded
                           Positive Thinking Company., I acquired many useful
                           skills and I started working with Spuerkeess as an
                           Analyst Developer then a Project Manager,
                           participating in everything from simple maintenance to
                           high stake projects at a national scale. <br /> I am
                           now preparing for the next step in collaboration with
-                          The Positive Thinking Company.
+                          Positive Thinking Company.
                         </p>
                       </div>
                     </div>

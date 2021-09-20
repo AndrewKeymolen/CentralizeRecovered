@@ -48,7 +48,7 @@ export default class About extends Component {
                         from scratch that would eventually receive an award for
                         its quality. Strong of that experience, and with my
                         degree in Business Computing in hands, I joined Adneom
-                        Luxembourg, now rebranded The Positive Thinking Company.
+                        Luxembourg, now rebranded Positive Thinking Company.
                       </p>
                       <p>
                         Working in Luxembourg was a shy first step in terms of
@@ -78,7 +78,7 @@ export default class About extends Component {
                       </p>
                       <p>
                         I am now preparing for the next step in collaboration
-                        with The Positive Thinking Company. I have more
+                        with Positive Thinking Company. I have more
                         certifications in Project Management on their way, some
                         workshops in preparation, and more importantly, more
                         projects to manage.
