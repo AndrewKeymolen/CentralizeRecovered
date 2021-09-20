@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+{/*import React, { Component } from "react";
 import photography1 from "./../resources/Photos_1920x1440/Photography (1).jpg";
 import photography2 from "./../resources/Photos_1920x1440/Photography (2).jpg";
 import photography3 from "./../resources/Photos_1920x1440/Photography (3).jpg";
@@ -1503,3 +1503,4 @@ export default class Photo extends Component {
     );
   }
 }
+*/}

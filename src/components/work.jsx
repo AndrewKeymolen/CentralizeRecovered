@@ -402,7 +402,7 @@ export default class Work extends Component {
                           </span>
                           <h3>
                             <a href={PdfPhotobook} download>
-                              Photobook <i className="icon-download4"></i>
+                              Photobook - So You Can Travel With Me <i className="icon-download4"></i>
                             </a>
                           </h3>
                           <p>
@@ -412,14 +412,17 @@ export default class Work extends Component {
                             wouldn't stand a chance. Anyway, it was a fun
                             exercice and I'm still pretty happy with the result.
                             <br />
+                            All of my published work can be found on my
+                            <a href="https://www.flickr.com/people/andrewkeymolen/">
+                              Flickr page</a>. However, you can find a selection
+                               of my best work right here or on my
+                               <a href="https://andrewkeymolenphotography.com/">
+                                 dedicated webpage</a>.
+                            <br />
                             <br />
                             <a href={PdfPhotobook} download>
                               The book&nbsp;<i className="icon-download4"></i>
                             </a>
-                            <br />
-                            <a href={PdfPhotobookCover} download>
-                              The book's cover&nbsp;
-                              <i className="icon-download4"></i>
                             </a>
                           </p>
                         </div>

@@ -10,7 +10,7 @@ export default class Education extends Component {
         <section className="colorlib-education" data-section="education">
           <div className="colorlib-narrow-content">
             <div className="row">
-              <div 
+              <div
                 className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
                 data-animate-effect="fadeInLeft"
                 >
@@ -90,6 +90,51 @@ export default class Education extends Component {
                               Vaasa’s University of Applied Sciences
                             </a>{" "}
                             in Finland as part of an Erasmus exchange
+                          </li>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="panel panel-default">
+                <div className="panel-heading" role="tab" id="headingTwo">
+                  <h4 className="panel-title">
+                    <a
+                      className="collapsed"
+                      data-toggle="collapse"
+                      href="#collapseTwo"
+                      aria-expanded="false"
+                      aria-controls="collapseTwo"
+                      >
+                      AgilePM Foundation
+                    </a>
+                  </h4>
+                </div>
+                <div
+                  id="collapseTwo"
+                  className="panel-collapse collapse"
+                  role="tabpanel"
+                  aria-labelledby="headingTwo"
+                  >
+                  <div className="panel-body">
+                    <div className="row">
+                      <div className="col-md-6">
+                        <p>
+                          <b>
+                            APMG International, Online - September 2021
+                          </b>
+                        </p>
+                      </div>
+                      <div className="col-md-6">
+                        <p>
+                          <li>Credential ID: 2001048470 09792871-01-YJ8T</li>
+                        </p>
+                        <p>
+                          <li>
+                            <a href="https://www.credly.com/badges/d1e4b22a-8172-42de-b36b-5e1e01c74456">
+                              Credential URL
+                            </a>
                           </li>
                         </p>
                       </div>

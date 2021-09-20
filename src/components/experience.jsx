@@ -92,13 +92,14 @@ export default class Experience extends Component {
                         </h2>
                         <p>
                           Shortly after certifying as one, I took on the role
-                          and responsibilities of SCRUM Master among 2 teams at
-                          Spuerkeess, one focusing on customer relationships (4
-                          developers), and<span id="dots3">...</span>
+                          and responsibilities of SCRUM Master among 3 teams
+                          at Spuerkeess, one focusing on customer data
+                          processing (8 developers), one<span id="dots3">...</span>
                           <span id="more3">
                             {" "}
-                            the other one focusing on customer data and products
-                            (± 15 developers).
+                            focusing on customer data and products (9 developers),
+                            and the last one overseeing daily transactions
+                            (6 developers).
                             <br />
                             <br />
                             My objective was to successfully transition both
@@ -160,11 +161,11 @@ export default class Experience extends Component {
                           certification, and the latest projects I had been
                           working on being finished, I seized an opportunity
                           with the support of PTC in October 2020 and took on
-                          the role and responsibilities of SCRUM Master among 2
-                          teams at Spuerkeess, one focusing on customer
-                          relationships (4 developers), and the other one
-                          focusing on customer data and products (± 15
-                          developers).
+                          the role and responsibilities of SCRUM Master among 3
+                          teams at Spuerkeess, one focusing on customer data
+                          processing (8 developers), one focusing on customer
+                          data and products (9 developers), and the last one
+                          overseeing daily transactions (6 developers).
                         </p>
                       </div>
                     </div>

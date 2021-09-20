@@ -68,11 +68,13 @@ export default class Sidebar extends Component {
                     Achievements
                   </a>
                 </li>
+                {/*
                 <li>
                   <a href="#" data-nav-section="photo">
                     Photography
                   </a>
                 </li>
+                */}
                 <li>
                   <a href="#" data-nav-section="contact">
                     Contact

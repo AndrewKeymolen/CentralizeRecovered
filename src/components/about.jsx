@@ -73,7 +73,8 @@ export default class About extends Component {
                         knowledge and start managing projects. In order to do
                         so, I certified as a SCRUM Master and successfully
                         transitioned to being a fully fledged SCRUM Master at
-                        Spuerkeess.
+                        Spuerkeess. One year of experience later, I certified
+                        as an Agile Project Manager.
                       </p>
                       <p>
                         I am now preparing for the next step in collaboration
