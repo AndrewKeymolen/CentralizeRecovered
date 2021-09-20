@@ -98,24 +98,24 @@ export default class Education extends Component {
                 </div>
               </div>
               <div className="panel panel-default">
-                <div className="panel-heading" role="tab" id="headingTwo">
+                <div className="panel-heading" role="tab" id="headingFive">
                   <h4 className="panel-title">
                     <a
                       className="collapsed"
                       data-toggle="collapse"
-                      href="#collapseTwo"
+                      href="#collapseFive"
                       aria-expanded="false"
-                      aria-controls="collapseTwo"
+                      aria-controls="collapseFive"
                       >
                       AgilePM Foundation
                     </a>
                   </h4>
                 </div>
                 <div
-                  id="collapseTwo"
+                  id="collapseFive"
                   className="panel-collapse collapse"
                   role="tabpanel"
-                  aria-labelledby="headingTwo"
+                  aria-labelledby="headingFive"
                   >
                   <div className="panel-body">
                     <div className="row">
