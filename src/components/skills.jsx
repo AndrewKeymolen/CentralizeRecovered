@@ -336,7 +336,7 @@ export default class Skills extends Component {
                   data-animate-effect="fadeInLeft"
                   >
                   <div className="progress-wrap">
-                    <h3>Azure DevOps Server</h3>
+                    <h3>Azure DevOps</h3>
                     <div className="progress">
                       <div
                         className="progress-bar color-2"
