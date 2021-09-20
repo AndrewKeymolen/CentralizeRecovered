@@ -423,7 +423,6 @@ export default class Work extends Component {
                             <a href={PdfPhotobook} download>
                               The book&nbsp;<i className="icon-download4"></i>
                             </a>
-                            </a>
                           </p>
                         </div>
                       </div>
