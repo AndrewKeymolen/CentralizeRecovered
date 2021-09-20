@@ -24,9 +24,9 @@ export default class Services extends Component {
                     <i className="icon-bulb"></i>
                   </span>
                   <div className="desc">
-                    <h3>SCRUM Master</h3>
+                    <h3>Agile Project Manager</h3>
                     <p>
-                      Certified SCRUM Master and experienced in management, I'm
+                      Certified Agile PM and SCRUM Master, and experienced in management, I'm
                       eager to take on the supervision of exciting new projects.
                     </p>
                   </div>
