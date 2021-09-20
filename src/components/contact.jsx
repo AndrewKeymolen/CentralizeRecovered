@@ -125,6 +125,14 @@ export default class Contact extends Component {
                     <p>Available on demand</p>
                   </div>
                 </div>
+
+                <div>
+                  <br />
+                    <br />
+                      <br />
+                        <br />
+<br />
+                </div>
               </div>
               <div className="col-md-7 col-md-push-1">
                 <div className="row">
