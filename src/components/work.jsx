@@ -14,6 +14,7 @@ import Android from "./../resources/Projects/Android.png";
 import french from "./../resources/TFE/FR_TFE_Andrew_Keymolen_3IG_2015_2016.pdf";
 import english from "./../resources/TFE/EN_TFE_Andrew_Keymolen_3IG_2015_2016.pdf";
 import defense from "./../resources/TFE/Project_presentation_Andrew_Keymolen.pdf";
+import Gaad from "./../resources/Projects/Gaad.pdf";
 
 export default class Work extends Component {
   render() {
@@ -520,7 +521,7 @@ export default class Work extends Component {
                     >
                       <div className="blog-entry">
                         <a
-                          href="https://www.adneom.com/googles-associate-android-developer-certification/"
+                          href={Gaad} download
                           className="blog-img"
                         >
                           <img
@@ -539,9 +540,10 @@ export default class Work extends Component {
                             </small>
                           </span>
                           <h3>
-                            <a href="https://www.adneom.com/googles-associate-android-developer-certification/">
+                            <a href={Gaad} download>
                               An introduction to the Android paradigm and to
-                              Google’s Associate Android Developer Certification
+                              Google’s Associate Android Developer Certification&nbsp;
+                              <i className="icon-download4"></i>
                             </a>
                           </h3>
                           <p>
