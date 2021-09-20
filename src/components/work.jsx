@@ -10,7 +10,6 @@ import TaskMaker from "./../resources/Projects/TaskMaker.png";
 import WeddingPicture from "./../resources/Projects/WeddingPicture.png";
 import Zen from "./../resources/Projects/Zen.jpg";
 import PdfPhotobook from "./../resources/Projects/PdfPhotobook.pdf";
-import PdfPhotobookCover from "./../resources/Projects/PdfPhotobookCover.pdf";
 import Android from "./../resources/Projects/Android.png";
 import french from "./../resources/TFE/FR_TFE_Andrew_Keymolen_3IG_2015_2016.pdf";
 import english from "./../resources/TFE/EN_TFE_Andrew_Keymolen_3IG_2015_2016.pdf";
