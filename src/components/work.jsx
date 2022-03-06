@@ -270,7 +270,7 @@ export default class Work extends Component {
                             </small>
                           </span>
                           <h3>
-                            <a href="https://AndrewKeymolenPhotography.com">
+                            <a href="https://keyman.photography">
                               Andrew Keymolen Photography
                             </a>
                           </h3>
@@ -416,7 +416,7 @@ export default class Work extends Component {
                             <a href="https://www.flickr.com/people/andrewkeymolen/">
                               Flickr page</a>. However, you can find a selection
                                of my best work right here or on my{" "}
-                               <a href="https://andrewkeymolenphotography.com/">
+                               <a href="https://keyman.photography/">
                                  dedicated webpage</a>.
                             <br />
                             <br />
