@@ -12,13 +12,13 @@ The backend (in PHP, for the contact form) is in [another repo](https://github.c
 
 ## Usage
 
-Visit [my webpage](https://andrewkeymolen.com/)
+Visit [my webpage](https://keyman.space/)
 
 ## Author
 
 <b>Andrew Keymolen</b>  
 Contact: andrewkeymolen@gmail.com
-Website: [andrewkeymolen.com](https://andrewkeymolen.com/)
+Website: [andrewkeymolen.com](https://keyman.space/)
 GitHub: [@AndrewKeymolen](https://github.com/AndrewKeymolen)
 
 ## Contributing
