@@ -18,7 +18,7 @@ Visit [my webpage](https://keyman.space/)
 
 <b>Andrew Keymolen</b>  
 Contact: andrewkeymolen@gmail.com
-Website: [andrewkeymolen.com](https://keyman.space/)
+Website: [keyman.space](https://keyman.space/)
 GitHub: [@AndrewKeymolen](https://github.com/AndrewKeymolen)
 
 ## Contributing
