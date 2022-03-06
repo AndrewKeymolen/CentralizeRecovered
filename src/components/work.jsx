@@ -251,7 +251,7 @@ export default class Work extends Component {
                     >
                       <div className="blog-entry">
                         <a
-                          href="https://keyman.photography"
+                          href=""
                           className="blog-img"
                         >
                           <img
