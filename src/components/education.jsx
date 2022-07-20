@@ -41,7 +41,7 @@ export default class Education extends Component {
                             aria-expanded="true"
                             aria-controls="collapseOne"
                             >
-                            Bachelor's degree in Business Computing – 2013-2016
+                            Bachelor's degree in Business Computing - 2013-2016
                           </a>
                         </h4>
                       </div>
