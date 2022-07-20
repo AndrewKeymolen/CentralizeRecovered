@@ -28,8 +28,7 @@ export default class Home extends Component {
                             I'm Andrew!
                           </h1>
                           <h2 style={{ color: "white" }}>
-                            Originally a Full Stack Analyst Developer, now a
-                            Project Manager.
+                            SCRUM Master and Project Manager, with a Senio Full Stack Dev background.
                           </h2>
                           <p>
                             <a
@@ -63,7 +62,7 @@ export default class Home extends Component {
                             Want to <br />
                             know more about me?
                           </h1>
-                          <h2 style={{ color: "white" }}>Please, go ahead!</h2>
+                          <h2 style={{ color: "white" }}>You're at the right place!</h2>
 
                           <div id="navbar">
                             <a
