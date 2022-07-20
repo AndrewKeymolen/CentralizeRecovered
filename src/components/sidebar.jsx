@@ -28,7 +28,7 @@ export default class Sidebar extends Component {
             <h1 id="colorlib-logo">
               <a href="index.html">Andrew Keymolen</a>
             </h1>
-            <span className="position">SCRUM Master & Project Manager</span>
+            <span className="position">SCRUM Master & Agile Project Manager</span>
           </div>
           <nav id="colorlib-main-menu" role="navigation" className="navbar">
             <div id="navbar" className="collapse">
@@ -81,23 +81,17 @@ export default class Sidebar extends Component {
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.linkedin.com/in/andrewkeymolen/"
-                    >
+                  <a href="https://www.linkedin.com/in/andrewkeymolen/" target="_blank" className="external">
                     <i className="icon-linkedin22" />
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://github.com/andrewkeymolen"
-                    >
-                    <img src={githubIcon} width="14" height="14" />
+                  <a href="https://github.com/andrewkeymolen/" target="_blank"  className="external">
+                    <img src={githubIcon} width="12" height="12" />
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.flickr.com/people/andrewkeymolen/"
-                    >
+                  <a href="https://www.flickr.com/people/andrewkeymolen/" target="_blank" className="external">
                     <i className="icon-flickr2" />
                   </a>
                 </li>

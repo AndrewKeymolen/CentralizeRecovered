@@ -93,7 +93,7 @@
       },
       { offset: "85%" }
     );
-  }; 
+  };
 
   var burgerMenu = function () {
     $(".js-colorlib-nav-toggle").on("click", function (event) {

@@ -28,7 +28,7 @@ export default class Home extends Component {
                             I'm Andrew!
                           </h1>
                           <h2 style={{ color: "white" }}>
-                            SCRUM Master and Project Manager, with a Senio Full Stack Dev background.
+                            SCRUM Master and Project Manager, with a Senior Full Stack Dev background.
                           </h2>
                           <p>
                             <a

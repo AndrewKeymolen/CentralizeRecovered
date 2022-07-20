@@ -41,8 +41,7 @@ export default class Education extends Component {
                             aria-expanded="true"
                             aria-controls="collapseOne"
                             >
-                            Bachelor's degree in Business Computing, obtained
-                            with Great Distinction
+                            Bachelor's degree in Business Computing – 2013-2016
                           </a>
                         </h4>
                       </div>
@@ -60,11 +59,16 @@ export default class Education extends Component {
                                   <a href="https://www.henallux.be/">
                                     Haute École de Namur-Liège-Luxembourg
                                   </a>
-                                  , IESN, Namur, BELGIUM – 2013-2016
+                                  , IESN, Namur, BELGIUM
                                 </b>
                               </p>
                             </div>
                             <div className="col-md-6">
+                            <p>
+                              <li>
+                                Obtained with Great Distinction
+                              </li>
+                            </p>
                               <p>
                                 <li>
                                   Thesis about the development of an Android
@@ -98,6 +102,51 @@ export default class Education extends Component {
                 </div>
               </div>
               <div className="panel panel-default">
+                <div className="panel-heading" role="tab" id="headingSix">
+                  <h4 className="panel-title">
+                    <a
+                      className="collapsed"
+                      data-toggle="collapse"
+                      href="#collapseSix"
+                      aria-expanded="false"
+                      aria-controls="collapseSix"
+                      >
+                      AgilePM Practitioner - May 2022
+                    </a>
+                  </h4>
+                </div>
+                <div
+                  id="collapseSix"
+                  className="panel-collapse collapse"
+                  role="tabpanel"
+                  aria-labelledby="headingSix"
+                  >
+                  <div className="panel-body">
+                    <div className="row">
+                      <div className="col-md-6">
+                        <p>
+                          <b>
+                            APMG International, Online
+                          </b>
+                        </p>
+                      </div>
+                      <div className="col-md-6">
+                        <p>
+                          <li>Credential ID: 2001102346 09831554-01-AGY6</li>
+                        </p>
+                        <p>
+                          <li>
+                            <a href="https://www.credly.com/badges/d8bc7ae5-3293-49c0-bd1b-864433b32a39/public_url">
+                              Credential URL
+                            </a>
+                          </li>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="panel panel-default">
                 <div className="panel-heading" role="tab" id="headingFive">
                   <h4 className="panel-title">
                     <a
@@ -107,7 +156,7 @@ export default class Education extends Component {
                       aria-expanded="false"
                       aria-controls="collapseFive"
                       >
-                      AgilePM Foundation
+                      AgilePM Foundation - September 2021
                     </a>
                   </h4>
                 </div>
@@ -122,7 +171,7 @@ export default class Education extends Component {
                       <div className="col-md-6">
                         <p>
                           <b>
-                            APMG International, Online - September 2021
+                            APMG International, Online
                           </b>
                         </p>
                       </div>
@@ -152,7 +201,7 @@ export default class Education extends Component {
                       aria-expanded="false"
                       aria-controls="collapseTwo"
                       >
-                      Scrum Master Certified (SMC)
+                      Scrum Master Certified (SMC) - May 2020
                     </a>
                   </h4>
                 </div>
@@ -168,7 +217,7 @@ export default class Education extends Component {
                         <p>
                           <b>
                             SCRUMstudy - Accreditation Body for Scrum and
-                            Agile, Online - May 2020
+                            Agile, Online
                           </b>
                         </p>
                       </div>
@@ -178,7 +227,7 @@ export default class Education extends Component {
                         </p>
                         <p>
                           <li>
-                            <a href="http://www.scrumstudy.com/scrum-master-certification.asp">
+                            <a href="https://www.scrumstudy.com/certification/scrum-master-certification">
                               Credential URL
                             </a>
                           </li>
@@ -202,7 +251,7 @@ export default class Education extends Component {
                       aria-expanded="false"
                       aria-controls="collapseThree"
                       >
-                      Scrum Fundamentals Certified (SFC)
+                      Scrum Fundamentals Certified (SFC) - May 2020
                     </a>
                   </h4>
                 </div>
@@ -218,7 +267,7 @@ export default class Education extends Component {
                         <p>
                           <b>
                             SCRUMstudy - Accreditation Body for Scrum and
-                            Agile, Online - May 2020
+                            Agile, Online
                           </b>
                         </p>
                       </div>
@@ -252,7 +301,7 @@ export default class Education extends Component {
                       aria-expanded="false"
                       aria-controls="collapseFour"
                       >
-                      Associate Android Developer
+                      Associate Android Developer - October 2017
                     </a>
                   </h4>
                 </div>
@@ -266,7 +315,7 @@ export default class Education extends Component {
                     <div className="row">
                       <div className="col-md-6">
                         <p>
-                          <b>Google Developers, Online - October 2017</b>
+                          <b>Google Developers, Online</b>
                         </p>
                       </div>
                       <div className="col-md-6">

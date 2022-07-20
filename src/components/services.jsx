@@ -26,7 +26,7 @@ export default class Services extends Component {
                   <div className="desc">
                     <h3>Agile Project Manager</h3>
                     <p>
-                      Certified Agile PM and SCRUM Master, and experienced in management, I'm
+                      Certified Agile PM and SCRUM Master, and an experienced PM, I'm
                       eager to take on the supervision of exciting new projects.
                     </p>
                   </div>
@@ -72,7 +72,7 @@ export default class Services extends Component {
                     <h3>Coaching</h3>
                     <p>
                       Taking part in different communities at work, I've
-                      organized workshops the SCRUM Methodology, taught Android
+                      organized workshops about Agile and the SCRUM Methodology, taught Android
                       dev and was asked to validate skills.
                     </p>
                   </div>

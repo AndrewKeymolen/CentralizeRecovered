@@ -49,7 +49,7 @@ export default class About extends Component {
                       <span className="icon2">
                         <i className="icon-bulb"></i>
                       </span>
-                      <h3>Project Manager</h3>
+                      <h3>Agile Project Manager</h3>
                     </div>
                   </div>
                   <div

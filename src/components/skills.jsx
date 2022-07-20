@@ -15,6 +15,7 @@ export default class Skills extends Component {
                 <h2 className="colorlib-heading animate-box">My Skills</h2>
               </div>
             </div>
+
             <div className="row">
               <div
                 className="col-md-12 animate-box"
@@ -30,6 +31,149 @@ export default class Skills extends Component {
                     data-animate-effect="fadeInRight"
                     className="heading-meta"
                     >
+                    Functional knowledge
+                    <br />
+                  </span>
+                </div>
+                <div
+                  className="col-md-6 animate-box"
+                  data-animate-effect="fadeInLeft"
+                  >
+                  <div className="progress-wrap">
+                    <h3>SCRUM Master & Team Leader</h3>
+                    <div className="progress">
+                      <div
+                        className="progress-bar color-1"
+                        role="progressbar"
+                        aria-valuenow="90"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "90%" }}
+                        >
+                        <span>90% - Experienced</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-md-6 animate-box"
+                  data-animate-effect="fadeInRight"
+                  >
+                  <div className="progress-wrap">
+                    <h3>Agile Project Manager</h3>
+                    <div className="progress">
+                      <div
+                        className="progress-bar color-2"
+                        role="progressbar"
+                        aria-valuenow="60"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "60%" }}
+                        >
+                        <span>60% - Certified</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-md-6 animate-box"
+                  data-animate-effect="fadeInLeft"
+                  >
+                  <div className="progress-wrap">
+                    <h3>Workshop Leader</h3>
+                    <div className="progress">
+                      <div
+                        className="progress-bar color-3"
+                        role="progressbar"
+                        aria-valuenow="85"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "85%" }}
+                        >
+                        <span>85% - Experienced</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-md-6 animate-box"
+                  data-animate-effect="fadeInRight"
+                  >
+                  <div className="progress-wrap">
+                    <h3>Coaching/Teaching/Skills validation</h3>
+                    <div className="progress">
+                      <div
+                        className="progress-bar color-4"
+                        role="progressbar"
+                        aria-valuenow="80"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "80%" }}
+                        >
+                        <span>80% - Experienced</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-md-6 animate-box"
+                  data-animate-effect="fadeInLeft"
+                  >
+                  <div className="progress-wrap">
+                    <h3>Backlog management</h3>
+                    <div className="progress">
+                      <div
+                        className="progress-bar color-5"
+                        role="progressbar"
+                        aria-valuenow="95"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "95%" }}
+                        >
+                        <span>95% - Experienced</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-md-6 animate-box"
+                  data-animate-effect="fadeInRight"
+                  >
+                  <div className="progress-wrap">
+                    <h3>Writing of functional and technical articles and analysis</h3>
+                    <div className="progress">
+                      <div
+                        className="progress-bar color-6"
+                        role="progressbar"
+                        aria-valuenow="95"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                        style={{ width: "95%" }}
+                        >
+                        <span>95% - Studies & personal</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            <div className="row">
+              <div
+                className="col-md-12 animate-box"
+                data-animate-effect="fadeInLeft"
+                >
+                {/*<p>
+                  Over the years, I accumulated a lot of skils working on
+                  various personal and professional projects.
+                  <br />
+                  </p>*/}
+                  <span
+                    className="col-md-12 animate-box"
+                    data-animate-effect="fadeInRight"
+                    className="heading-meta"
+                    >
+                    <br />
+                    <br />
                     Programming Languages
                     <br />
                   </span>

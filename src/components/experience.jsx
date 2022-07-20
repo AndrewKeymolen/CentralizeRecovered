@@ -71,6 +71,40 @@ export default class Experience extends Component {
                   className="timeline-centered animate-box"
                   data-animate-effect="fadeInLeft"
                 >
+
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2"></i>
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Project Management Consultant at{" "}
+                          <a
+                            href="https://positivethinking.tech/"
+                            style={{ color: "#2c98f0" }}
+                          >
+                            Positive Thinking Company
+                          </a>
+                          , Luxembourg <span>2020 - Ongoing</span>
+                        </h2>
+                        <p>
+                          I was offered to certify as a SCRUM Master by PTC in May 2020, which I did. Strong of that new certification, and the latest projects I had been working on being finished, I seized an opportunity with the support of PTC in October 2020 and took on the role and responsibilities of SCRUM Master among 3 teams at Spuerkeess, one focusing on customer data processing (8 developers), one focusing on customer data and products (9 developers), and the last one overseeing daily transactions (6 developers). Eventually, I certified as an Agile Project Manager and I've been aiming to fully dedicate myself to that career path since.
+                          <br />
+                          <br />
+                          <b>
+                            ✔ Mission as SCRUM Master at Spuerkeess, see below for details
+                            <br />✔ Agile workshops organizer
+                            <br />
+                          </b>
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
@@ -123,12 +157,11 @@ export default class Experience extends Component {
                           <br />
                           <br />
                           <b>
-                            ✔ All the responsibilities from my previous role at
-                            Spuerkeess
-                            <br />✔ Project Management and transitioning of
-                            teams of developers to the SCRUM Methodology
+                            ✔ Project Management and transitioning of teams and backlogs to SCRUM
+                            <br />✔ Use of Azure DevOps Server for management of code, releases, tests and backlogs
                             <br />✔ Azure DevOps for code management and
                             implementation of the SCRUM methodology
+                            <br />✔ All previous responsibilities at Spuerkeess, see below for details
                             <br />
                           </b>
                         </p>
@@ -141,31 +174,29 @@ export default class Experience extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
+                      <div className="timeline-icon color-2">
                         <i className="icon-pen2"></i>
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Project Management Consultant at{" "}
+                          IT Consultant at{" "}
                           <a
                             href="https://positivethinking.tech/"
                             style={{ color: "#2c98f0" }}
                           >
-                            Positive Thinking Company
+                            ADNEOM
                           </a>
-                          , Luxembourg <span>2020 - Ongoing</span>
+                          , Luxembourg <span>2017 - Ongoing</span>
                         </h2>
                         <p>
-                          I was offered to certify as a SCRUM Master by PTC in
-                          May 2020, which I did. Strong of that new
-                          certification, and the latest projects I had been
-                          working on being finished, I seized an opportunity
-                          with the support of PTC in October 2020 and took on
-                          the role and responsibilities of SCRUM Master among 3
-                          teams at Spuerkeess, one focusing on customer data
-                          processing (8 developers), one focusing on customer
-                          data and products (9 developers), and the last one
-                          overseeing daily transactions (6 developers).
+                          Thanks to Positive Thinking Company, I acquired many useful skills and started working with Spuerkeess as an Analyst Developer, participating in everything from simple maintenance to high stake projects at a national scale.
+                          <br />
+                          <br />
+                          <b>
+                            ✔ Mission as Analyst Developer at Spuerkeess, see below for details
+                            <br />✔ Android development workshops organizer
+                            <br />
+                          </b>
                         </p>
                       </div>
                     </div>
@@ -249,6 +280,11 @@ export default class Experience extends Component {
                             the same year.
                             <br />
                             <br />
+                            Other projects have followed since. For example, I recently designed and implemented a BizTalk Server application allowing the mutualization of data between multiple banks in Luxembourg.
+                            <br />
+                            <br />
+                            Eventually though, I would take on the role of SCRUM Master for the entire division.
+                            <br />
                           </span>
                           <a onClick={this.showmore.bind(this)} id="myBtn">
                             {" "}
@@ -257,61 +293,11 @@ export default class Experience extends Component {
                           <br />
                           <br />
                           <b>
-                            ✔ Development in VB.Net with Visual Studio for the
-                            front end, and in COBOL with a 3270 emulator for the
-                            back end <br />✔ Needs assessment, writing of
-                            technical and functional documentation in French,
-                            incident management, production follow-up,
-                            development of new features on existing software and
-                            development of new software and projects
-                            <br />✔ Use of the MVC design pattern
-                            <br />✔ Focus on maintainability, improvability and
-                            testing
-                            <br />✔ Use of expertise to recommend functional and
-                            technical enhancements <br />✔ Retail banking
-                            (e-banking, mobile banking, bank accounts,
-                            credit/debit cards, everyday money transfers)
-                            <br />✔ DB2 database and use of SQL DB2 for data
-                            querying
-                            <br />✔ Use of many tools (logs management,
-                            deployment management, etc.) internal to the bank
+                            ✔ Development in VB.Net with Visual Studio for the front and back end, and COBOL with a 3270 emulator for the back end. Also, SOAP services with XML, REST APIs with JSON and SQL DB2 for querying <br />✔ Needs assessment, writing of technical and functional documentation in French, incident management, production follow-up, development of new features on existing software and development of new software and high stakes projects
+                            <br />✔ Use of the MVC design pattern  with focus on maintainability, improvability and testing
+                            <br />✔ Use of expertise to recommend functional and technical enhancements <br />✔ Retail (e-banking, mobile banking, bank accounts, credit/debit cards, money transfers)
                             <br />
                           </b>
-                        </p>
-                      </div>
-                    </div>
-                  </article>
-
-                  <article
-                    className="timeline-entry animate-box"
-                    data-animate-effect="fadeInLeft"
-                  >
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
-                        <i className="icon-pen2"></i>
-                      </div>
-                      <div className="timeline-label">
-                        <h2>
-                          IT Consultant at{" "}
-                          <a
-                            href="https://positivethinking.tech/"
-                            style={{ color: "#2c98f0" }}
-                          >
-                            ADNEOM
-                          </a>
-                          , Luxembourg <span>2017 - Ongoing</span>
-                        </h2>
-                        <p>
-                          Working in Luxembourg was a shy first step in terms of
-                          an international career for a Belgian but thanks to
-                          ADNEOM, a consulting company now rebranded
-                          Positive Thinking Company., I acquired many useful
-                          skills and I started working with Spuerkeess as an
-                          Analyst Developer then a Project Manager,
-                          participating in everything from simple maintenance to
-                          high stake projects at a national scale. <br /> I am
-                          now preparing for the next step in collaboration with
-                          Positive Thinking Company.
                         </p>
                       </div>
                     </div>
