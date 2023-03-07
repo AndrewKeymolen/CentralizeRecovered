@@ -1,4 +1,4 @@
-# Centralize
+# Centralize (Abandoned)
 
 Centralize is my personal website. I'll try to make it as complete as possible.  I used an existing Bootstrap-ready HTML theme that I converted to React and heavily modified. Some PHP was involved for the contact form but the main work was in JavaScript & HTML/CSS.
 
@@ -12,13 +12,12 @@ The backend (in PHP, for the contact form) is in [another repo](https://github.c
 
 ## Usage
 
-Visit [my webpage](https://keyman.space/)
+Visit [my webpage](https://centralize-na2aphasq-andrewkeymolen.vercel.app/)
 
 ## Author
 
 <b>Andrew Keymolen</b>  
 Contact: andrewkeymolen@gmail.com
-Website: [keyman.space](https://keyman.space/)
 GitHub: [@AndrewKeymolen](https://github.com/AndrewKeymolen)
 
 ## Contributing
